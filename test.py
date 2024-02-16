@@ -8,4 +8,4 @@ else:
     print(f"{year} is not a leap year.")
 
 
-print("Hello Folks")
+print("Hello")
